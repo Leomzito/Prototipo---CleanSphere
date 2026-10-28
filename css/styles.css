@@ -1,0 +1,10 @@
+/* Custom UI details */
+        .glass-card {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+        .hero-bg {
+            background: radial-gradient(circle at 80% 20%, rgba(20, 184, 166, 0.15) 0%, transparent 40%),
+                        radial-gradient(circle at 20% 80%, rgba(37, 99, 235, 0.1) 0%, transparent 40%);
+        }
